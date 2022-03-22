@@ -8,7 +8,7 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-chacha20-trunk.flake = false;
-  inputs.src-chacha20-trunk.ref   = "refs/heads/trunk";
+  inputs.src-chacha20-trunk.ref   = "trunk";
   inputs.src-chacha20-trunk.owner = "~ehmry";
   inputs.src-chacha20-trunk.repo  = "chacha20";
   inputs.src-chacha20-trunk.type  = "sourcehut";
