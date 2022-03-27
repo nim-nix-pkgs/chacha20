@@ -11,6 +11,7 @@
   inputs.src-chacha20-trunk.ref   = "trunk";
   inputs.src-chacha20-trunk.owner = "~ehmry";
   inputs.src-chacha20-trunk.repo  = "chacha20";
+  inputs.src-chacha20-trunk.dir   = "";
   inputs.src-chacha20-trunk.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
