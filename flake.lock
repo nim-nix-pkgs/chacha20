@@ -1,5 +1,32 @@
 {
   "nodes": {
+    "chacha20-trunk": {
+      "inputs": {
+        "flakeNimbleLib": [
+          "flakeNimbleLib"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "src-chacha20-trunk": "src-chacha20-trunk"
+      },
+      "locked": {
+        "dir": "trunk",
+        "lastModified": 1652367023,
+        "narHash": "sha256-ps+gJQH5djTQAWCIeZfOF7FfkeajiOUqh0aN3P4a21g=",
+        "owner": "nim-nix-pkgs",
+        "repo": "chacha20",
+        "rev": "b2635a55ed370b5092ccd43f41fcadd0f8319e41",
+        "type": "github"
+      },
+      "original": {
+        "dir": "trunk",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "chacha20",
+        "type": "github"
+      }
+    },
     "flakeNimbleLib": {
       "inputs": {
         "nixpkgs": [
@@ -35,9 +62,9 @@
     },
     "root": {
       "inputs": {
+        "chacha20-trunk": "chacha20-trunk",
         "flakeNimbleLib": "flakeNimbleLib",
-        "nixpkgs": "nixpkgs",
-        "src-chacha20-trunk": "src-chacha20-trunk"
+        "nixpkgs": "nixpkgs"
       }
     },
     "src-chacha20-trunk": {
