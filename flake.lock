@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "trunk",
-        "lastModified": 1660789358,
-        "narHash": "sha256-D+aywSDDSs+15FkpIagSeSmyRtCyHi2hMp6upWu5fVQ=",
+        "lastModified": 1661565355,
+        "narHash": "sha256-Cx2ci45FH9v5Wu6jz0vIpdx4ZUVzq4VzwSptoDwZHpE=",
         "owner": "nim-nix-pkgs",
         "repo": "chacha20",
-        "rev": "17268f5cc02b620764604577118b44b6a97a2d99",
+        "rev": "f4829689b45fd5d34123615fdaf26611ebed57da",
         "type": "github"
       },
       "original": {
@@ -51,8 +51,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
-        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
