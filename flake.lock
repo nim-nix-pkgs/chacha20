@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "trunk",
-        "lastModified": 1667334411,
-        "narHash": "sha256-VesQgmbuEiLP7cdZJKcwlXZvS+IUcqCeMcgPDW16JOA=",
+        "lastModified": 1668748692,
+        "narHash": "sha256-IsFB96+MvU1xnSL6BGKrWFhijmY7r7NsShERidtm8OM=",
         "owner": "nim-nix-pkgs",
         "repo": "chacha20",
-        "rev": "de5a721ebd6832490f7968be12f34aee9ffa160d",
+        "rev": "d91b22003697746cf495dd9c465f121b55322343",
         "type": "github"
       },
       "original": {
